@@ -108,7 +108,7 @@ while True:
 
         name = input("Enter Voter Name: ")
         voters[vid] = Voter(vid, name)
-        print("oter Added Successfully")
+        print("Voter Added Successfully")
 
     # Cast Vote
     elif choice == "3":
